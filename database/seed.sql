@@ -1,6 +1,5 @@
 -- =====================================================================
--- CareerLens (SQL version) - seed.sql
--- Run AFTER schema.sql. Inserts roles, skills, role requirements and sample jobs.
+-- CareerLens - seed.sql
 -- =====================================================================
 
 USE careerlens_db;
